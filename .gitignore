@@ -1,0 +1,11 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore all large dataset folders starting with 'batch'
+[b]atch*/
+
+# Ignore any generated Excel output summaries locally
+*.xlsx
+
+# Ignore Mac hidden system files
+.DS_Store
